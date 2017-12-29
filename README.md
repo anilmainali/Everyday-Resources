@@ -1,5 +1,11 @@
 # Resources
 
+# Note taking Apps
+
+## Evernote
+
+https://evernote.com/
+
 # Health and Fitness: Stay Healthy with these tracker
 
 ## FITBIT
