@@ -17,3 +17,7 @@ http://mapmy-internal.api.ua.com/
 ## Connect
 
 https://connect.garmin.com/en-US/
+
+## STRAVA
+
+https://www.strava.com
