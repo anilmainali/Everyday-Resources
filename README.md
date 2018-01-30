@@ -1,6 +1,7 @@
 # Resources
 # Editor
 - Sublime Text
+https://www.sublimetext.com/3
 
 # Enter what you want to calculate or know about:
 
