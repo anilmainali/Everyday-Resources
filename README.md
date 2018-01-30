@@ -1,5 +1,7 @@
 # Resources
 # Editor
+- Sublime Text
+
 # Enter what you want to calculate or know about:
 
   http://www.wolframalpha.com/
