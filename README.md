@@ -1,5 +1,8 @@
 # Resources
 # Real Training, Real Time, Real Environments
+Get hands-on practice working with cloud technologies and software. Train on-demand and learn at your own pace.
+
+
 
 # Editor
 - Sublime Text
