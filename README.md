@@ -6,6 +6,8 @@ https://qwiklabs.com/
 
 ### How To Join Qwiklabs?
 
+1. Navigate to https://qwiklabs.com/users/sign_up?locale=en
+
 
 
 
