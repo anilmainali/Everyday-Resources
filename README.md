@@ -7,6 +7,8 @@ https://qwiklabs.com/
 ### How To Join Qwiklabs?
 
 1. Navigate to https://qwiklabs.com/users/sign_up?locale=en
+2. Fill out the signup form and click on CREATE A NEW ACCOUNT
+
 
 
 
