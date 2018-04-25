@@ -1,5 +1,12 @@
 # Resources
 
+# How to check Spelling Mistakes and Broken Links
+
+
+https://typosaur.us/
+
+
+
 # Form
 
 www.jotform.com
